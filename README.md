@@ -9,7 +9,7 @@ I'm a seasoned and accomplished Senior Backend Engineer with a strong focus on d
 - 💬 **Ask Me About**: Python, Flask, Node.js, NestJS, Django, Express, RESTful APIs, Microservices Architecture, and Backend best practices.
 - 📫 **Reach Me At**: [osaro.igbinovia@vendease.com](mailto:osaro.igbinovia@vendease.com)
 - 😊 **Pronouns**: He/Him
-- ⚡ **Fun Fact**: I enjoy playing chess and solving complex problems.
+- ⚡ **Fun Fact**: FIFA beast & Gym bro
 
 ---
 
